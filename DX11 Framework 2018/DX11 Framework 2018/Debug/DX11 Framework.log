@@ -1,0 +1,32 @@
+﻿  Application.cpp
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(787): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(792): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(829): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(830): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(835): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(843): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(844): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(845): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(846): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(847): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(848): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(853): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(854): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(855): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(856): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(857): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(858): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(865): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(866): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(867): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(871): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(872): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(873): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(1467): warning C4238: nonstandard extension used: class rvalue used as lvalue
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(1472): warning C4238: nonstandard extension used: class rvalue used as lvalue
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(1635): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(1647): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\student\documents\dx11 framework 2018w2\dx11 framework 2018\dx11 framework 2018\application.cpp(1495): warning C4701: potentially uninitialized local variable 'view' used
+  DX11 Framework.vcxproj -> C:\Users\Student\Documents\DX11 Framework 2018w2\DX11 Framework 2018\DX11 Framework 2018\Debug\DX11 Framework.exe
